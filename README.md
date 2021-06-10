@@ -2,7 +2,7 @@
 
 **I'm a CS student at ACS UPB**
 
-<img alt="My Github stats" align="left" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=CristiSandu&layout=compact" alt="saurav-skl" />  
+<img alt="My Github stats" align="left" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=CristiSandu&layout=compact%22%20alt=%22saurav-skl" alt="saurav-skl" />  
 
 
 
