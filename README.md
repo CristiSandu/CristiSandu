@@ -1,6 +1,6 @@
 # Hi everyone !
 
-**I'm a CS student at ACS UPB**
+**I'm a .NET Developer with focus on .NET MAUI**
 
 <img alt="My Github stats" align="left" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=CristiSandu&layout=compact%22%20alt=%22saurav-skl" alt="saurav-skl" />  
 
